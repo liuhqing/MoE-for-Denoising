@@ -1,5 +1,5 @@
 torch==2.0.0
 torchvision==0.15.0
 numpy==1.21.2
-opencv-python==4.5.3
+opencv-python==4.8.0  # 使用更高版本的 OpenCV
 tqdm==4.62.0
